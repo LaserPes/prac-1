@@ -1,0 +1,16 @@
+﻿"ConsoleApplication2.exe" (Win32). Загружено "C:\Users\Виктор\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe". Символы загружены.
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x19fc завершился с кодом 0 (0x0).
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"ConsoleApplication2.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+Поток 0x3a08 завершился с кодом 0 (0x0).
+Поток 0x3530 завершился с кодом 0 (0x0).
+Поток 0x1750 завершился с кодом 0 (0x0).
